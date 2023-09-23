@@ -14,17 +14,26 @@ body{
     background-color:   #efefef ;
 }
 .main-box{
+    background-color: #ffffff;
     width: 100%;
     height: 350px;
+    border-radius: 12px;
     position: relative;
     overflow: hidden;
+
 }
 .taber{
-    background-color: #ffffff;
     padding: 8px 0px;
 }
 .content-box{
     /* overflow: hidden; */
+}
+.btn:hover{
+    color: #ff7846;
+}
+
+#btn1{
+    color: #ff7846;
 }
 .fx{
     position: absolute;
